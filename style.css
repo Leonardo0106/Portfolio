@@ -1,0 +1,256 @@
+body {
+    color: white;
+    background-color: black;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+ul {
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+    align-items: center;
+    padding: 16px;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
+
+header img {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    border: 2px solid blue;
+}
+
+.center {
+    text-align: center;
+}
+
+h1 {
+    color: blue;
+}
+
+footer img {
+    width: 50px;
+    height: 50px;
+}
+
+footer {
+    display: flex;
+    justify-content: center;
+}
+
+
+footer a {
+    margin: 20px;
+    text-align: center;
+}
+
+footer p{
+    margin-top: 2px;
+}
+
+.container {
+    padding: 0px 50px;
+}
+
+nav a:hover{
+    color: green;
+}
+
+nav a{
+    border-radius: 50px;
+}
+
+
+/* iniciando segunda página */
+
+body.projetos {
+    background-color: black;
+    color:rgb(157, 127, 127);
+}
+
+h1{
+    color: blue;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+body.projetos{
+
+    h1{
+        color:rgb(157, 127, 127);
+    }
+
+    h3{
+        color:skyblue
+    }
+
+
+    p{
+        color: white;
+    }
+    
+}
+
+footer{
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+    align-items: center;
+    padding: 10px;
+    margin-left: 30px;
+    
+}
+
+.voltar1{
+    background-color: white;
+    color: black;
+    padding: 10px 30px;
+    border: none;
+    border-radius: 25px;
+    cursor: pointer;
+    font-size: 15px;
+    margin-top: 30%;
+    display: flex;
+    flex-direction: column;
+    margin-left: 0%;
+    align-items: flex-start;
+}
+
+.botao{
+    background-color: white;
+    color: black;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 50px;
+    cursor: pointer;
+    font-size: 16px;
+    transition: 0,3s;
+}
+
+.botao:hover{
+    background-color: beige;
+}
+
+.botao2{
+    background-color: white;
+    color: black;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 50px;
+    cursor: pointer;
+    font-size: 16px;
+    transition: 0,3s;
+}
+
+.botao2:hover{
+    background-color:beige
+}
+
+.botao3{
+    background-color: white;
+    color: black;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 50px;
+    cursor: pointer;
+    font-size: 16px;
+    transition: 0,3s;
+}
+
+.botao3:hover{
+    background-color: beige;
+}
+
+/*sobre mim*/
+
+.sobre{
+    background-color:black;
+    
+}
+
+h1.sobre1{
+    font-family: Arial, Helvetica, sans-serif;
+    color: brown;
+}
+
+.sobreeu{
+    width: 10%;
+    height: 10%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    border-radius: 50%;
+}
+
+.voltar{
+    background-color: white;
+    color: black;
+    border: none;
+    border-radius: 25px;
+    padding: 10px 30px;
+    margin-left: 30px;
+    display:flex;
+    margin-top: 0%;
+    cursor: pointer;
+}
+
+.voltar1{
+    background-color: white;
+    color: black;
+    border: none;
+    border-radius: 25px;
+    padding: 10px 30px;
+    margin-left: 30px;
+    display:flex;
+    margin-top: 0%;
+    cursor: pointer;
+
+}
+
+.voltar1:hover{
+    background-color: beige;
+}
+
+/*Contato*/
+
+
+.whatsapp{
+    width: 30px;
+    height: 30px;
+    padding-left: 85px;
+    position: relative;
+    top: -40px;
+}
+
+.zap{
+    padding-top: 20px;
+}
+
+
+.gmail{
+    width: 30px;
+    height: 30px;
+    position: relative;
+    left: -20px;
+    top: -75px;
+    
+}
+
+
+.back{
+    background-color: white;
+    color: black;
+    border: none;
+    border-radius: 25px;
+    padding: 10px 30px;
+    margin-left: 30px;
+    display:flex;
+    margin-top: 0%;
+    cursor: pointer;
+
+}
