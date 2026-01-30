@@ -1,4 +1,4 @@
-Bem-vindo(a) ao meu projeto!
+Bem-vindo(a) ao meu primeiro portfólio!
 Este é um site desenvolvido apenas com HTML e CSS para apresentar um pouco sobre mim, minha formação, cursos, projetos e formas de contato.
 
 📌 Seções da Página
